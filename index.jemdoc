@@ -1,10 +1,10 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-==Zhang Kun 
+== Zhang Kun 
 
 ~~~
-{}{img_left}{photo.jpg}{alt text}{126}{160} #{http://people.kth.se/~euhanna/}
+{}{img_left}{photo.jpg}{alt text}{126}{160} #{https://intelligentsystems.eee.ntu.edu.sg/cpisrg/smart_manufacturing/smart_manufacturing_group_member.html}
 PhD 
-\n [https://intelligentsystems.eee.ntu.edu.sg/cpisrg/smart_manufacturing/smart_manufacturing_group_member.html Cyber Physical Intelligent System Research Group] 
+\n [https://intelligentsystemseee.ntu.edu.sg/cpisrg/index.html Cyber Physical Intelligent System Research Group] 
 \n [https://www.ntu.edu.sg/eee School of Electrical and Electronic Engineering (EEE)]
 \n [https://www.ntu.edu.sg Nanyang Technological University (NTU)]
 \n 50 Nanyang Avenue, Singapore 639798 
@@ -14,15 +14,15 @@ PhD
 # E-mail: nukgnahz \[@\] 163 \[DOT\] com
 ~~~
 
-== About me
-I received the B.S. and M.Sc. degrees in Mathematics and Applied Mathematics, Management Science and Engineering from [http://www.hebtu.edu.cn/ Hebei Normal University], and the [http://www.xbmu.edu.cn/ Northwest University for Nationalities], China, in 2012 and 2015, respectively. 
-In April 2020, I received the PhD degree in Control Theory and Control Engineering under the supervision of 
-[http://www.ise.neu.edu.cn/2019/0109/c1423a8325/page.htm Prof. Huaguang Zhang] at [http:www.neu.edu.cn Northeastern University]. I am a Postdoctoral Fellow and Research Fellow with [http://lsc.amss.ac.cn/~jif/index.html Prof. Ji-Feng Zhang]
+== Overview
+Dr Zhang received the B.S. and M.Sc. degrees in Mathematics and Applied Mathematics, Management Science and Engineering from [http://www.hebtu.edu.cn/ Hebei Normal University], and [http://www.xbmu.edu.cn/ Northwest University for Nationalities], China, in 2012 and 2015, respectively. 
+In April 2020, he received the PhD degree in Control Theory and Control Engineering under the supervision of 
+[http://www.ise.neu.edu.cn/2019/0109/c1423a8325/page.htm Prof. Huaguang Zhang] at [http:www.neu.edu.cn Northeastern University]. He was a Postdoctoral Fellow and Research Fellow with [http://lsc.amss.ac.cn/~jif/index.html Prof. Ji-Feng Zhang]
 and [https://personal.ntu.edu.sg/rsu  Prof. Rong Su] at [http://www.amss.ac.cn/ Academy of Mathematics and Systems Science, Chinese Academy of Sciences]  and
 [https://www.ntu.edu.sg Nanyang Technological University (NTU)].  
 
 == Research
-My research interests include 
+Dr Zhang's research interests include 
 - Intelligent Control
 - Nonlinear Systems
 - Optimization Algorithm  
