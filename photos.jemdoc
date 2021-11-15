@@ -1,7 +1,0 @@
-# jemdoc: menu{MENU}{photos.html}, nofooter
-== My World
-
-~~~
-{}{img_left}{photo.jpg}{alt text}{126}{160}
-
-~~~
