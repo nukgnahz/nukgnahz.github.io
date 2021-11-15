@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{publication.html}, nofooter
+== Publications
+
+# Like *bold* and /italic/, _underscore_ can be used for emphasis in this modified version of +jemdoc+.  Useful for highlighting different parts of a bibliography item as:
+
+# 1. _First Author_, Second Author, and *Corresponding Author*, "Amazing Paper," /High-impact Journal/, vol.~1, pp.~1--10 (2014).
+
+= Conference Proceedings
+
+
+= Journal Articles
+. K. Zhang, J. F. Zhang, R. Su, and H. Zhang \" Nash equilibrium of
+multi-agent graphical game with a privacy information encrypted
+learning algorithm \", ArXiv, 2021. 
+. K. Zhang, R. Su, H. Zhang, and Y. Tian, \"Adaptive resilient event-triggered control design of autonomous vehicles with an iterative single critic learning framework\",  IEEE Transactions on Neural Networks and Learning Systems, 2020.
+
+\n 
+[https://scholar.google.com/citations?user=okHnansAAAAJ&hl=zh-CN Publication list in Google Scholar].
