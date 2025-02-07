@@ -1,5 +1,5 @@
 # nukgnahz.github.io
-Kun Zhang的个人主页 https://nukgnahz.github.io/;
+Kun Zhang's Website: https://nukgnahz.github.io/;
 
 Download my CV from: https://github.com/nukgnahz/nukgnahz.github.io/blob/main/Kun_Zhang_CV(E).pdf; 
 
